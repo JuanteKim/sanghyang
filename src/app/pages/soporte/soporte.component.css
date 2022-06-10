@@ -1,0 +1,25 @@
+.banner{
+    background-image: url(../../../assets/images/banner1.jpg);
+    height: 650px;
+    background-position: center top;
+    background-size: cover;
+}
+
+.banner h1{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    top: 35%;
+    left: 20%;
+    position: absolute;
+}
+
+.banner p{
+    color: #ffffff;
+    font-size: 16px;
+    top: 42%;
+    left: 20%;
+    position: absolute;
+    padding-right: 40%;
+    
+}

@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    font-family: "Roboto Flex", sans-serif;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+}
+

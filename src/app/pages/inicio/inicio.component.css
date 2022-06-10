@@ -1,0 +1,59 @@
+.section_title p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    color: #000;
+}
+
+.lni{
+    color: #003369;
+}
+
+.single_features .features_title {
+    color: #003369;
+    margin-top: 15px;
+    font-size: 24px;
+    font-weight: 600;
+    -webkit-transition: all .3s ease-out 0s;
+    -moz-transition: all .3s ease-out 0s;
+    -ms-transition: all .3s ease-out 0s;
+    -o-transition: all .3s ease-out 0s;
+    transition: all .3s ease-out 0s;
+}
+
+.about_image .image_content {
+    width: 185px;
+    height: 185px;
+    background-color: #003369;
+    display: table;
+    text-align: center;
+    position: relative;
+    left: -92px;
+}
+
+.bg_cover {
+    background-size: contain;
+}
+
+.lni-apple,
+.lni-android {
+    color: #fff;
+}
+
+.main-btn {
+    background-color: #000000;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.main-btn:hover {
+    background-color: #003369;
+    color: #fff;
+}
+
+
+.idl video{
+    max-width: 650px;
+    align-items: center;
+    
+}
